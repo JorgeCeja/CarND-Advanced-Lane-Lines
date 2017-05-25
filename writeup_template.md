@@ -13,16 +13,16 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/undistort_output.png "Undistorted"
-[image2]: ./examples/undistort.png "Road Transformed"
-[image3]: ./examples/binary_combo_example.png "Binary Example"
-[image4]: ./examples/warped_straight_lines.png "Warp Example"
-[image5]: ./examples/color_fit_lines.png "Fit Visual"
-[image6]: ./examples/example_output.png "Output"
-[equation1]: ./examples/equation1.png "equation1"
-[equation2]: ./examples/equation2.png "equation2"
-[equation3]: ./examples/equation3.png "equation3"
-[equation4]: ./examples/equation4.png "equation4"
+[image1]: ./output_images/undistort_output.png "Undistorted"
+[image2]: ./output_images/undistort.png "Road Transformed"
+[image3]: ./output_images/binary_combo_example.png "Binary Example"
+[image4]: ./output_images/warped_straight_lines.png "Warp Example"
+[image5]: ./output_images/color_fit_lines.png "Fit Visual"
+[image6]: ./output_images/example_output.png "Output"
+[equation1]: ./output_images/equation1.png "equation1"
+[equation2]: ./output_images/equation2.png "equation2"
+[equation3]: ./output_images/equation3.png "equation3"
+[equation4]: ./output_images/equation4.png "equation4"
 [video1]: ./project_output.mp4 "Video"
 
 ** [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points **
